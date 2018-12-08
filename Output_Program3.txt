@@ -1,0 +1,28 @@
+Dakota Wilson
+
+The Division point is 4,2
+    -3      99   Comanche
+    -3     -13   Nocona
+     8     345   Kiowa
+  -784      87   Comanche
+    20       1   Tepee
+     0       0   Nocona
+     4    -465   DIVISA Nocona and Tepee
+     8       9   Kiowa
+    83     218   Kiowa
+  -845      -9   Nocona
+    -3     -66   Nocona
+  3345     -88   Tepee
+    -1      -1   Nocona
+     2       2   DIVISA Comanche and Nocona
+  1954    1953   Kiowa
+   478      43   Kiowa
+   329       2   DIVISA Kiowa and Tepee
+    -3      90   Comanche
+   333    1098   Kiowa
+     0     564   Comanche
+    84      87   Kiowa
+    23    9876   Kiowa
+     4       3   DIVISA Comanche and Kiowa
+    77     196   Kiowa
+     4       2   Division Point
